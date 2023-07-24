@@ -1,4 +1,5 @@
-# Create T3 App
+# Chirp
+This is an emoji only twitter clone using clerk for auth, prisma for the backend, and tailwind for styling.
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
